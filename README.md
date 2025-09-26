@@ -74,4 +74,5 @@ As is. No support. DIY. Learn purposes only.
 
 ## ..
 [m][e] Sep, 26 2025
+
 ![Logo](Images/footer.png)
