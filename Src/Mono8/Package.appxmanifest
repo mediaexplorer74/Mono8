@@ -10,12 +10,12 @@
   <Identity
     Name="ME.Mono8"
     Publisher="CN=Admin"
-    Version="1.0.0.0" />
+    Version="1.0.1.0" />
 
   <mp:PhoneIdentity PhoneProductId="c7ff609a-06c0-4051-bf87-42e21c078c46" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>GameManager</DisplayName>
+    <DisplayName>Mono8 v1.0.1</DisplayName>
     <PublisherDisplayName>Admin</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -33,7 +33,7 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="GameManager.App">
       <uap:VisualElements
-        DisplayName="Mono8"
+        DisplayName="Mono8 1.0.1"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
         Description="GameManager"
